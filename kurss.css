@@ -1,0 +1,66 @@
+body{
+ background-color: #dad2cf;
+}
+
+nav.navbar.navbar-default {
+  background-color: #415f42;
+	color: white;
+	padding: 14px 20px;
+	margin: 8px 0;
+	cursor: pointer;
+  width: 100%;
+  display: block;
+}
+.nav.navbar-nav ul{
+  background-color: rgb(120, 153, 121);
+
+
+}
+a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: #111;
+}
+
+
+
+.col-md-3 {
+  border-radius: 20px;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  text-align: center;
+  font-family: arial;
+}
+
+.col-md-3 {
+  color: grey;
+  font-size: 17px;
+}
+
+div.panel-body {
+  border-radius: 50%;
+}
+
+.yryrf {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+.card button:hover {
+  opacity: 0.7;
+}
+
+
